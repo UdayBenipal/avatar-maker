@@ -1,0 +1,1 @@
+A desktop application where you can create your own avatar
